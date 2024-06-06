@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/poscomp-simulater/static/css/main.f855e6bc.css",
-    "main.js": "/poscomp-simulater/static/js/main.856dbbdf.js",
+    "main.css": "/poscomp-simulater/static/css/main.3ed825f7.css",
+    "main.js": "/poscomp-simulater/static/js/main.6ed69388.js",
     "static/js/453.da76aa88.chunk.js": "/poscomp-simulater/static/js/453.da76aa88.chunk.js",
-    "static/media/logo.svg": "/poscomp-simulater/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/poscomp-simulater/index.html",
-    "main.f855e6bc.css.map": "/poscomp-simulater/static/css/main.f855e6bc.css.map",
-    "main.856dbbdf.js.map": "/poscomp-simulater/static/js/main.856dbbdf.js.map",
+    "main.3ed825f7.css.map": "/poscomp-simulater/static/css/main.3ed825f7.css.map",
+    "main.6ed69388.js.map": "/poscomp-simulater/static/js/main.6ed69388.js.map",
     "453.da76aa88.chunk.js.map": "/poscomp-simulater/static/js/453.da76aa88.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.856dbbdf.js"
+    "static/css/main.3ed825f7.css",
+    "static/js/main.6ed69388.js"
   ]
 }

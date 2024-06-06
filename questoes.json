@@ -1,0 +1,606 @@
+[
+  {
+    "questoes": [
+      {
+        "id": "2022-01",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Álgebra Linear",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 1,
+        "texto": "Dada a matriz 𝐴 = ( 1 −2 1 ; 3 −2 −1 ; 4 −1 2 ), calcule (A-2I)²:",
+        "opcoes": {
+          "A": {
+            "texto": "( 1 −2 1 ; 3 −2 −1 ; 4 −1 2 )",
+            "correta": false
+          },
+          "B": {
+            "texto": "( −1 9 1 ; −19 11 7 ; −7 −4 5 )",
+            "correta": false
+          },
+          "C": {
+            "texto": "( 1 −2 1 ; 3 −4 −1 ; 4 −1 0 )",
+            "correta": false
+          },
+          "D": {
+            "texto": "( 3 −2 1 ; 3 0 −1 ; 4 −1 4 )",
+            "correta": false
+          },
+          "E": {
+            "texto": "( 6 −2 −1 ; 3 −9 −4 ; −4 −1 0 )",
+            "correta": true
+          }
+        }
+      },
+      {
+        "id": "2022-02",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Álgebra Linear",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 2,
+        "texto": "Calcule ‘a’ de maneira que o vetor (0, 2, a) seja combinação linear dos vetores (4, 0, 5) e (2, a, 3):",
+        "opcoes": {
+          "A": {
+            "texto": "a = ±1",
+            "correta": false
+          },
+          "B": {
+            "texto": "a = 0",
+            "correta": true
+          },
+          "C": {
+            "texto": "a = ±2",
+            "correta": false
+          },
+          "D": {
+            "texto": "a = ±3",
+            "correta": false
+          },
+          "E": {
+            "texto": "a = ±5",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-03",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Geometria Analítica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 3,
+        "texto": "Assinale a alternativa que indica o produto escalar e o produto vetorial dos vetores 𝑢⃗ =(3,-1,2) e 𝑣 =(1,-2,-1), respectivamente.",
+        "opcoes": {
+          "A": {
+            "texto": "3 e (5,5,-5)",
+            "correta": false
+          },
+          "B": {
+            "texto": "3 e (3,2,-2)",
+            "correta": true
+          },
+          "C": {
+            "texto": "3 e (2,1,3)",
+            "correta": false
+          },
+          "D": {
+            "texto": "-1 e (3,2,-2)",
+            "correta": false
+          },
+          "E": {
+            "texto": "7 e (3,-2,2)",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-04",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Geometria Analítica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 4,
+        "texto": "Considere a equação do círculo x²+y²-2x+4y+1=0. A partir dessa equação, determine o raio do círculo.",
+        "opcoes": {
+          "A": {
+            "texto": "1",
+            "correta": false
+          },
+          "B": {
+            "texto": "2",
+            "correta": true
+          },
+          "C": {
+            "texto": "3",
+            "correta": false
+          },
+          "D": {
+            "texto": "4",
+            "correta": false
+          },
+          "E": {
+            "texto": "5",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-05",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Cálculo",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 5,
+        "texto": "Considere a função F: R³ -> R dada por: F(x, y, z) = zx²+ezx³-z 5sen(y)-1. Assinale a alternativa que apresenta o gradiente de F no ponto (1, 0, 0).",
+        "opcoes": {
+          "A": {
+            "texto": "(3, 0, 2)",
+            "correta": false
+          },
+          "B": {
+            "texto": "(3, 1, 1)",
+            "correta": false
+          },
+          "C": {
+            "texto": "(0, -1, 3)",
+            "correta": false
+          },
+          "D": {
+            "texto": "(1, 1, 1)",
+            "correta": false
+          },
+          "E": {
+            "texto": "(1, 0, 1)",
+            "correta": true
+          }
+        }
+      },
+      {
+        "id": "2022-06",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Cálculo",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 6,
+        "texto": "Encontre a área cotada na região do plano formada pelo eixo x, a curva y = ex e as retas x = 0 e x =1.",
+        "opcoes": {
+          "A": {
+            "texto": "e - 1",
+            "correta": false
+          },
+          "B": {
+            "texto": "e² - 1",
+            "correta": true
+          },
+          "C": {
+            "texto": "e",
+            "correta": false
+          },
+          "D": {
+            "texto": "e - 2",
+            "correta": false
+          },
+          "E": {
+            "texto": "1",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-07",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Álgebra Linear",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 7,
+        "texto": "Resolva o sistema de equações lineares pelo método de Gauss, se a matriz do sistema é: (1 2 −3 / 3 0 1 / 2 −1 2 | −2 0 3).",
+        "opcoes": {
+          "A": {
+            "texto": "x= 1; y = -9; z = 6",
+            "correta": false
+          },
+          "B": {
+            "texto": "x = 2; y = -11; z = -6",
+            "correta": false
+          },
+          "C": {
+            "texto": "x= 1; y = 2; z = -3",
+            "correta": false
+          },
+          "D": {
+            "texto": "x= -2; y = 6; z = 3",
+            "correta": true
+          },
+          "E": {
+            "texto": "x= -2; y = 6; z = -6",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-08",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Geometria Analítica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 8,
+        "texto": "Assinale a alternativa que apresenta o ângulo formado entre a reta 2x-y-12=0 e a reta 3x+y+3=0.",
+        "opcoes": {
+          "A": {
+            "texto": "0°",
+            "correta": false
+          },
+          "B": {
+            "texto": "15°",
+            "correta": false
+          },
+          "C": {
+            "texto": "30°",
+            "correta": false
+          },
+          "D": {
+            "texto": "45°",
+            "correta": true
+          },
+          "E": {
+            "texto": "60°",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-09",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Lógica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 9,
+        "texto": "Se A e B são dois conjuntos finitos, realize a redução de 𝐸 = {𝐴 ∩ (𝐴 ∪ 𝐵') } − 𝐵'.",
+        "opcoes": {
+          "A": {
+            "texto": "A",
+            "correta": false
+          },
+          "B": {
+            "texto": "B",
+            "correta": false
+          },
+          "C": {
+            "texto": "𝐴 ∩ 𝐵",
+            "correta": true
+          },
+          "D": {
+            "texto": "𝐴 ∪ 𝐵",
+            "correta": false
+          },
+          "E": {
+            "texto": "B'",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-10",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Análise",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 10,
+        "texto": "Calcule lim x→∞ (2x+3)³ / (3(3x-2)² + 5):",
+        "opcoes": {
+          "A": {
+            "texto": "72",
+            "correta": false
+          },
+          "B": {
+            "texto": "17",
+            "correta": false
+          },
+          "C": {
+            "texto": "9",
+            "correta": true
+          },
+          "D": {
+            "texto": "8",
+            "correta": false
+          },
+          "E": {
+            "texto": "0",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-11",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Lógica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 11,
+        "texto": "Dada a afirmação: 'Exatamente uma pessoa entre Marcos e Heide viajou'. A negação da afirmação acima é logicamente equivalente à:",
+        "opcoes": {
+          "A": {
+            "texto": "Ambos viajaram.",
+            "correta": false
+          },
+          "B": {
+            "texto": "Ambos não viajaram.",
+            "correta": false
+          },
+          "C": {
+            "texto": "Marcos ou Heide não viajou.",
+            "correta": false
+          },
+          "D": {
+            "texto": "Ambos viajaram ou ambos não viajaram.",
+            "correta": true
+          },
+          "E": {
+            "texto": "Pelo menos um entre Marcos e Heide viajou.",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-12",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Lógica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 12,
+        "texto": "Analise a proposição abaixo: 'Existe pelo menos uma cidade em que todos os hospitais possuem, pelo menos, 30 leitos'. A negação da proposição acima é logicamente equivalente à proposição:",
+        "opcoes": {
+          "A": {
+            "texto": "Há uma cidade em que existe pelo menos um hospital com, no máximo, 29 leitos.",
+            "correta": true
+          },
+          "B": {
+            "texto": "Em no máximo uma cidade, existe um hospital que possui, no máximo, 100 leitos.",
+            "correta": false
+          },
+          "C": {
+            "texto": "Em cada cidade, existe pelo menos uma escola que possui, pelo menos, 30 leitos.",
+            "correta": false
+          },
+          "D": {
+            "texto": "Existe nenhuma cidade em que todos os hospitais possuam, no máximo, 30 leitos.",
+            "correta": false
+          },
+          "E": {
+            "texto": "Em todas as cidades, existe pelo menos um hospital que possui, no máximo, 29 leitos.",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-13",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Probabilidade e Estatística",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 13,
+        "texto": "Imagine que você esteja usando um aplicativo novo que ainda está em fase de testes. Por essa razão, uma pessoa só consegue instalar esse aplicativo se tiver recebido um convite de alguém que já era um usuário. Suponha que você tenha 10 convites para distribuir para 4 amigos. De quantas maneiras isso pode ser feito levando em consideração que os convites são todos indistinguíveis, que você pode distribuir mais de um convite para um mesmo amigo e que cada amigo deva receber pelo menos um convite?",
+        "opcoes": {
+          "A": {
+            "texto": "84",
+            "correta": false
+          },
+          "B": {
+            "texto": "120",
+            "correta": false
+          },
+          "C": {
+            "texto": "126",
+            "correta": true
+          },
+          "D": {
+            "texto": "5.040",
+            "correta": false
+          },
+          "E": {
+            "texto": "6.561",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-14",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Lógica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 14,
+        "texto": "Resolva a identidade ¬(¬𝐸 ∗ ¬𝐵) , aplicando as leis da álgebra de Boole.",
+        "opcoes": {
+          "A": {
+            "texto": "E",
+            "correta": false
+          },
+          "B": {
+            "texto": "E*B",
+            "correta": false
+          },
+          "C": {
+            "texto": "B",
+            "correta": false
+          },
+          "D": {
+            "texto": "E+B",
+            "correta": false
+          },
+          "E": {
+            "texto": "¬E",
+            "correta": true
+          }
+        }
+      },
+      {
+        "id": "2022-15",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Lógica",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 15,
+        "texto": "Dado duas proposições lógicas q e p. A proposição lógica ~p-> q é falsa se, e somente se, quando a proposição abaixo for verdadeira:",
+        "opcoes": {
+          "A": {
+            "texto": "p ou q",
+            "correta": false
+          },
+          "B": {
+            "texto": "~p",
+            "correta": false
+          },
+          "C": {
+            "texto": "~( p ou q)",
+            "correta": false
+          },
+          "D": {
+            "texto": "~( p e q)",
+            "correta": true
+          },
+          "E": {
+            "texto": "~q",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-16",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Álgebra Booleana",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 16,
+        "texto": "Simplificando f=a'bc+abc+abc', utilizando o diagrama de Karnaugh, temos:",
+        "opcoes": {
+          "A": {
+            "texto": "f = ab+bc",
+            "correta": false
+          },
+          "B": {
+            "texto": "f = ab+b'c",
+            "correta": false
+          },
+          "C": {
+            "texto": "f = abc",
+            "correta": false
+          },
+          "D": {
+            "texto": "f = ab",
+            "correta": true
+          },
+          "E": {
+            "texto": "f = bc",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-17",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Combinatória",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 17,
+        "texto": "Uma string ternária é uma sequência ordenada finita formada por uma ou mais ocorrências dos dígitos 0, 1 e 2. O comprimento de uma string ternária é a quantidade de dígitos que a compõem. Quantas strings ternárias interessantes de comprimento 8 existem?",
+        "opcoes": {
+          "A": {
+            "texto": "878",
+            "correta": false
+          },
+          "B": {
+            "texto": "984",
+            "correta": false
+          },
+          "C": {
+            "texto": "1.100",
+            "correta": false
+          },
+          "D": {
+            "texto": "1.280",
+            "correta": true
+          },
+          "E": {
+            "texto": "5.739",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-18",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Estatística",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 18,
+        "texto": "Em uma prova realizada a um grupo de alunos universitários foram obtidas as seguintes pontuações: [101, 102, 112, 113, 92, 91, 106, 104, 100, 95, 104, 98, 96, 117, 89, 99, 114, 100, 98, 104, 93, 92, 99, 90, 108, 116, 93, 109, 105, 91]. A partir da tabela anterior, qual a porcentagem de alunos que tem pontuação entre 90 a 99?",
+        "opcoes": {
+          "A": {
+            "texto": "33,33%",
+            "correta": false
+          },
+          "B": {
+            "texto": "43,33%",
+            "correta": false
+          },
+          "C": {
+            "texto": "46,66%",
+            "correta": true
+          },
+          "D": {
+            "texto": "56,66%",
+            "correta": false
+          },
+          "E": {
+            "texto": "65,55%",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-19",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Combinatória",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 19,
+        "texto": "Quantos números inteiros positivos escritos na base decimal formados por exatamente 6 dígitos, que não começam com o dígito 0, são palíndromos e múltiplos de 4 existem?",
+        "opcoes": {
+          "A": {
+            "texto": "150",
+            "correta": false
+          },
+          "B": {
+            "texto": "200",
+            "correta": false
+          },
+          "C": {
+            "texto": "240",
+            "correta": true
+          },
+          "D": {
+            "texto": "900",
+            "correta": false
+          },
+          "E": {
+            "texto": "100",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2022-20",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Probabilidade",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 20,
+        "texto": "O tempo t, em segundos, necessário para um processador resolver uma equação é uma variável aleatória com a seguinte distribuição de probabilidades:",
+        "opcoes": {
+          "A": {
+            "texto": "4,5 s",
+            "correta": false
+          },
+          "B": {
+            "texto": "5,0 s",
+            "correta": false
+          },
+          "C": {
+            "texto": "1,0 s",
+            "correta": false
+          },
+          "D": {
+            "texto": "0,9 s",
+            "correta": false
+          },
+          "E": {
+            "texto": "5,4 s",
+            "correta": true
+          }
+        }
+      }
+    ]
+  }
+]
