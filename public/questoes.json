@@ -1,0 +1,54 @@
+[
+  {
+    "questoes": [
+      {
+        "id": "2023-01",
+        "conteudoProgramatico": "Matemática - Álgebra",
+        "anoAplicacao": 2023,
+        "numeroQuestao": 1,
+        "opcoes": {
+          "A": {
+            "texto": "Opção A",
+            "correta": false
+          },
+          "B": {
+            "texto": "Opção B",
+            "correta": true
+          },
+          "C": {
+            "texto": "Opção C",
+            "correta": false
+          },
+          "D": {
+            "texto": "Opção D",
+            "correta": false
+          }
+        }
+      },
+      {
+        "id": "2023-02",
+        "conteudoProgramatico": "História - Idade Média",
+        "anoAplicacao": 2023,
+        "numeroQuestao": 2,
+        "opcoes": {
+          "A": {
+            "texto": "Opção A",
+            "correta": false
+          },
+          "B": {
+            "texto": "Opção B",
+            "correta": false
+          },
+          "C": {
+            "texto": "Opção C",
+            "correta": true
+          },
+          "D": {
+            "texto": "Opção D",
+            "correta": false
+          }
+        }
+      }
+    ]
+  }
+]
