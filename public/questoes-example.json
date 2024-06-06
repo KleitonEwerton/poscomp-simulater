@@ -1,0 +1,36 @@
+[
+  {
+    "questoes": [
+      {
+        "id": "2022-02",
+        "conteudoProgramatico": "Matemática",
+        "Componente": "Álgebra Linear",
+        "anoAplicacao": 2022,
+        "numeroQuestao": 2,
+        "texto":"Calcule ‘a’ de maneira que o vetor (0, 2, a) seja combinação linear dos vetores (4, 0, 5) e (2, a, 3):",
+        "opcoes": {
+          "A": {
+            "texto": "a = ±1",
+            "correta": false
+          },
+          "B": {
+            "texto": "a = 0",
+            "correta": true
+          },
+          "C": {
+            "texto": "a = ±2",
+            "correta": false
+          },
+          "D": {
+            "texto": "a = ±3",
+            "correta": false
+          },
+          "E": {
+            "texto": "a = ±5",
+            "correta": false
+          }
+        }
+      }
+    ]
+  }
+]

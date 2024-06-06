@@ -1,5 +1,6 @@
 import "./App.css";
 import React, { useState, useEffect } from "react";
+import Questions from "./components/questions";
 import axios from "axios";
 
 function App() {
@@ -11,19 +12,17 @@ function App() {
     });
   }, []);
 
-  
-return (
+  return (
     <div className="App">
       <header className="App-header">
-        <div>
-          <h1>Lista de Questõess </h1>
-          {questoes.map((questao) => (
-
-            <div key={questao.id}>
-              <h2> 
-                <p>{questao.id}</p>
-              </h2>
-            </div>
+        <div className="App">
+          {questoes.map((questao, index) => (
+            <Questions
+              key={questao.id}
+              questao={questao}
+              index={index + 1}
+              total={questoes.length}
+            />
           ))}
         </div>
       </header>
